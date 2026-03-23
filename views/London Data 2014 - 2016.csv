@@ -1,0 +1,253 @@
+year,month,crime_month,major_category,total_crimes
+2014,1,01/01/2014,Robbery,2165
+2014,1,01/01/2014,Violence Against the Person,12741
+2014,1,01/01/2014,Criminal Damage,4464
+2014,1,01/01/2014,Drugs,4020
+2014,1,01/01/2014,Other Notifiable Offences,930
+2014,1,01/01/2014,Theft and Handling,23285
+2014,1,01/01/2014,Burglary,7910
+2014,2,01/02/2014,Robbery,1878
+2014,2,01/02/2014,Burglary,6767
+2014,2,01/02/2014,Violence Against the Person,12057
+2014,2,01/02/2014,Other Notifiable Offences,925
+2014,2,01/02/2014,Criminal Damage,4236
+2014,2,01/02/2014,Drugs,3644
+2014,2,01/02/2014,Theft and Handling,21715
+2014,3,01/03/2014,Violence Against the Person,14396
+2014,3,01/03/2014,Criminal Damage,4846
+2014,3,01/03/2014,Drugs,4338
+2014,3,01/03/2014,Robbery,1877
+2014,3,01/03/2014,Theft and Handling,24404
+2014,3,01/03/2014,Burglary,6720
+2014,3,01/03/2014,Other Notifiable Offences,1088
+2014,4,01/04/2014,Criminal Damage,4703
+2014,4,01/04/2014,Drugs,3871
+2014,4,01/04/2014,Burglary,5911
+2014,4,01/04/2014,Robbery,1723
+2014,4,01/04/2014,Other Notifiable Offences,1021
+2014,4,01/04/2014,Theft and Handling,22665
+2014,4,01/04/2014,Violence Against the Person,13573
+2014,5,01/05/2014,Drugs,3928
+2014,5,01/05/2014,Burglary,5832
+2014,5,01/05/2014,Robbery,1814
+2014,5,01/05/2014,Other Notifiable Offences,1105
+2014,5,01/05/2014,Violence Against the Person,15346
+2014,5,01/05/2014,Theft and Handling,23357
+2014,5,01/05/2014,Criminal Damage,4945
+2014,6,01/06/2014,Robbery,1842
+2014,6,01/06/2014,Other Notifiable Offences,1011
+2014,6,01/06/2014,Theft and Handling,23441
+2014,6,01/06/2014,Drugs,3763
+2014,6,01/06/2014,Violence Against the Person,16481
+2014,6,01/06/2014,Burglary,5391
+2014,6,01/06/2014,Criminal Damage,5110
+2014,7,01/07/2014,Violence Against the Person,17432
+2014,7,01/07/2014,Theft and Handling,23660
+2014,7,01/07/2014,Criminal Damage,5164
+2014,7,01/07/2014,Drugs,3663
+2014,7,01/07/2014,Other Notifiable Offences,1257
+2014,7,01/07/2014,Burglary,5701
+2014,7,01/07/2014,Robbery,1687
+2014,8,01/08/2014,Theft and Handling,22639
+2014,8,01/08/2014,Drugs,3569
+2014,8,01/08/2014,Violence Against the Person,15803
+2014,8,01/08/2014,Burglary,5893
+2014,8,01/08/2014,Criminal Damage,4925
+2014,8,01/08/2014,Other Notifiable Offences,1068
+2014,8,01/08/2014,Robbery,1744
+2014,9,01/09/2014,Theft and Handling,23161
+2014,9,01/09/2014,Robbery,1743
+2014,9,01/09/2014,Burglary,5767
+2014,9,01/09/2014,Violence Against the Person,16745
+2014,9,01/09/2014,Criminal Damage,5095
+2014,9,01/09/2014,Drugs,3177
+2014,9,01/09/2014,Other Notifiable Offences,1245
+2014,10,01/10/2014,Robbery,1941
+2014,10,01/10/2014,Drugs,3671
+2014,10,01/10/2014,Violence Against the Person,17297
+2014,10,01/10/2014,Theft and Handling,24507
+2014,10,01/10/2014,Criminal Damage,5491
+2014,10,01/10/2014,Other Notifiable Offences,1147
+2014,10,01/10/2014,Burglary,6483
+2014,11,01/11/2014,Other Notifiable Offences,1166
+2014,11,01/11/2014,Violence Against the Person,17093
+2014,11,01/11/2014,Drugs,3674
+2014,11,01/11/2014,Robbery,1888
+2014,11,01/11/2014,Criminal Damage,5281
+2014,11,01/11/2014,Burglary,6873
+2014,11,01/11/2014,Theft and Handling,23729
+2014,12,01/12/2014,Robbery,1848
+2014,12,01/12/2014,Other Notifiable Offences,1074
+2014,12,01/12/2014,Drugs,3117
+2014,12,01/12/2014,Criminal Damage,5019
+2014,12,01/12/2014,Theft and Handling,23317
+2014,12,01/12/2014,Violence Against the Person,16385
+2014,12,01/12/2014,Burglary,6805
+2015,1,01/01/2015,Drugs,3690
+2015,1,01/01/2015,Robbery,1795
+2015,1,01/01/2015,Criminal Damage,4823
+2015,1,01/01/2015,Burglary,6521
+2015,1,01/01/2015,Violence Against the Person,16187
+2015,1,01/01/2015,Theft and Handling,22985
+2015,1,01/01/2015,Other Notifiable Offences,1054
+2015,2,01/02/2015,Robbery,1644
+2015,2,01/02/2015,Other Notifiable Offences,1067
+2015,2,01/02/2015,Criminal Damage,4628
+2015,2,01/02/2015,Drugs,3302
+2015,2,01/02/2015,Violence Against the Person,15458
+2015,2,01/02/2015,Burglary,5974
+2015,2,01/02/2015,Theft and Handling,21243
+2015,3,01/03/2015,Violence Against the Person,17660
+2015,3,01/03/2015,Burglary,6336
+2015,3,01/03/2015,Theft and Handling,24490
+2015,3,01/03/2015,Robbery,1862
+2015,3,01/03/2015,Other Notifiable Offences,1147
+2015,3,01/03/2015,Criminal Damage,5364
+2015,3,01/03/2015,Drugs,3237
+2015,4,01/04/2015,Theft and Handling,23171
+2015,4,01/04/2015,Drugs,3057
+2015,4,01/04/2015,Burglary,5437
+2015,4,01/04/2015,Robbery,1782
+2015,4,01/04/2015,Other Notifiable Offences,1135
+2015,4,01/04/2015,Violence Against the Person,16579
+2015,4,01/04/2015,Criminal Damage,5284
+2015,5,01/05/2015,Other Notifiable Offences,1169
+2015,5,01/05/2015,Criminal Damage,5539
+2015,5,01/05/2015,Robbery,1889
+2015,5,01/05/2015,Burglary,5559
+2015,5,01/05/2015,Violence Against the Person,18982
+2015,5,01/05/2015,Drugs,3082
+2015,5,01/05/2015,Theft and Handling,24818
+2015,6,01/06/2015,Theft and Handling,24628
+2015,6,01/06/2015,Violence Against the Person,19155
+2015,6,01/06/2015,Drugs,3248
+2015,6,01/06/2015,Robbery,1711
+2015,6,01/06/2015,Other Notifiable Offences,1268
+2015,6,01/06/2015,Burglary,5289
+2015,6,01/06/2015,Criminal Damage,5461
+2015,7,01/07/2015,Theft and Handling,24324
+2015,7,01/07/2015,Robbery,1789
+2015,7,01/07/2015,Other Notifiable Offences,1291
+2015,7,01/07/2015,Violence Against the Person,19738
+2015,7,01/07/2015,Criminal Damage,5597
+2015,7,01/07/2015,Drugs,3467
+2015,7,01/07/2015,Burglary,5400
+2015,8,01/08/2015,Other Notifiable Offences,1223
+2015,8,01/08/2015,Drugs,3451
+2015,8,01/08/2015,Theft and Handling,22611
+2015,8,01/08/2015,Violence Against the Person,18478
+2015,8,01/08/2015,Robbery,1758
+2015,8,01/08/2015,Burglary,5372
+2015,8,01/08/2015,Criminal Damage,5163
+2015,9,01/09/2015,Other Notifiable Offences,1266
+2015,9,01/09/2015,Theft and Handling,22602
+2015,9,01/09/2015,Violence Against the Person,18290
+2015,9,01/09/2015,Burglary,5419
+2015,9,01/09/2015,Drugs,3363
+2015,9,01/09/2015,Robbery,1721
+2015,9,01/09/2015,Criminal Damage,4903
+2015,10,01/10/2015,Drugs,3618
+2015,10,01/10/2015,Robbery,1812
+2015,10,01/10/2015,Criminal Damage,5383
+2015,10,01/10/2015,Burglary,5941
+2015,10,01/10/2015,Other Notifiable Offences,1259
+2015,10,01/10/2015,Theft and Handling,24475
+2015,10,01/10/2015,Violence Against the Person,19873
+2015,11,01/11/2015,Criminal Damage,5435
+2015,11,01/11/2015,Drugs,3231
+2015,11,01/11/2015,Violence Against the Person,19259
+2015,11,01/11/2015,Other Notifiable Offences,1196
+2015,11,01/11/2015,Theft and Handling,24719
+2015,11,01/11/2015,Burglary,6783
+2015,11,01/11/2015,Robbery,1864
+2015,12,01/12/2015,Burglary,6458
+2015,12,01/12/2015,Other Notifiable Offences,1154
+2015,12,01/12/2015,Violence Against the Person,19081
+2015,12,01/12/2015,Criminal Damage,5396
+2015,12,01/12/2015,Drugs,3039
+2015,12,01/12/2015,Theft and Handling,23956
+2015,12,01/12/2015,Robbery,1756
+2016,1,01/01/2016,Burglary,6302
+2016,1,01/01/2016,Robbery,1810
+2016,1,01/01/2016,Criminal Damage,5049
+2016,1,01/01/2016,Violence Against the Person,18266
+2016,1,01/01/2016,Other Notifiable Offences,1276
+2016,1,01/01/2016,Theft and Handling,22316
+2016,1,01/01/2016,Drugs,3828
+2016,2,01/02/2016,Burglary,5841
+2016,2,01/02/2016,Robbery,1646
+2016,2,01/02/2016,Criminal Damage,5010
+2016,2,01/02/2016,Drugs,3397
+2016,2,01/02/2016,Other Notifiable Offences,1133
+2016,2,01/02/2016,Violence Against the Person,17642
+2016,2,01/02/2016,Theft and Handling,22028
+2016,3,01/03/2016,Theft and Handling,23117
+2016,3,01/03/2016,Robbery,1711
+2016,3,01/03/2016,Violence Against the Person,18863
+2016,3,01/03/2016,Criminal Damage,5092
+2016,3,01/03/2016,Drugs,3324
+2016,3,01/03/2016,Burglary,5804
+2016,3,01/03/2016,Other Notifiable Offences,1256
+2016,4,01/04/2016,Criminal Damage,5224
+2016,4,01/04/2016,Other Notifiable Offences,1302
+2016,4,01/04/2016,Drugs,3389
+2016,4,01/04/2016,Violence Against the Person,18668
+2016,4,01/04/2016,Theft and Handling,23149
+2016,4,01/04/2016,Burglary,5335
+2016,4,01/04/2016,Robbery,1570
+2016,5,01/05/2016,Criminal Damage,5967
+2016,5,01/05/2016,Drugs,3276
+2016,5,01/05/2016,Theft and Handling,25374
+2016,5,01/05/2016,Robbery,1787
+2016,5,01/05/2016,Violence Against the Person,20639
+2016,5,01/05/2016,Other Notifiable Offences,1543
+2016,5,01/05/2016,Burglary,5404
+2016,6,01/06/2016,Burglary,5381
+2016,6,01/06/2016,Drugs,3041
+2016,6,01/06/2016,Theft and Handling,24722
+2016,6,01/06/2016,Robbery,1885
+2016,6,01/06/2016,Violence Against the Person,20463
+2016,6,01/06/2016,Other Notifiable Offences,1432
+2016,6,01/06/2016,Criminal Damage,5338
+2016,7,01/07/2016,Burglary,5387
+2016,7,01/07/2016,Drugs,3372
+2016,7,01/07/2016,Robbery,1960
+2016,7,01/07/2016,Violence Against the Person,21733
+2016,7,01/07/2016,Other Notifiable Offences,1457
+2016,7,01/07/2016,Criminal Damage,5773
+2016,7,01/07/2016,Theft and Handling,25837
+2016,8,01/08/2016,Violence Against the Person,19762
+2016,8,01/08/2016,Burglary,5406
+2016,8,01/08/2016,Other Notifiable Offences,1386
+2016,8,01/08/2016,Theft and Handling,25176
+2016,8,01/08/2016,Criminal Damage,5584
+2016,8,01/08/2016,Drugs,3442
+2016,8,01/08/2016,Robbery,1910
+2016,9,01/09/2016,Burglary,5280
+2016,9,01/09/2016,Theft and Handling,24999
+2016,9,01/09/2016,Criminal Damage,5210
+2016,9,01/09/2016,Robbery,1980
+2016,9,01/09/2016,Drugs,3091
+2016,9,01/09/2016,Other Notifiable Offences,1318
+2016,9,01/09/2016,Violence Against the Person,19534
+2016,10,01/10/2016,Other Notifiable Offences,1331
+2016,10,01/10/2016,Burglary,5475
+2016,10,01/10/2016,Drugs,3204
+2016,10,01/10/2016,Violence Against the Person,19588
+2016,10,01/10/2016,Theft and Handling,26303
+2016,10,01/10/2016,Robbery,2048
+2016,10,01/10/2016,Criminal Damage,5456
+2016,11,01/11/2016,Robbery,1983
+2016,11,01/11/2016,Burglary,6066
+2016,11,01/11/2016,Other Notifiable Offences,1204
+2016,11,01/11/2016,Theft and Handling,25384
+2016,11,01/11/2016,Violence Against the Person,18441
+2016,11,01/11/2016,Criminal Damage,5092
+2016,11,01/11/2016,Drugs,2894
+2016,12,01/12/2016,Violence Against the Person,18782
+2016,12,01/12/2016,Robbery,2238
+2016,12,01/12/2016,Drugs,2656
+2016,12,01/12/2016,Burglary,6604
+2016,12,01/12/2016,Theft and Handling,25728
+2016,12,01/12/2016,Other Notifiable Offences,1171
+2016,12,01/12/2016,Criminal Damage,5276

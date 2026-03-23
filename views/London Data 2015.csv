@@ -1,0 +1,85 @@
+year,month,major_category,total_crimes
+2015,1,Burglary,6521
+2015,1,Drugs,3690
+2015,1,Violence Against the Person,16187
+2015,1,Robbery,1795
+2015,1,Other Notifiable Offences,1054
+2015,1,Criminal Damage,4823
+2015,1,Theft and Handling,22985
+2015,2,Criminal Damage,4628
+2015,2,Drugs,3302
+2015,2,Other Notifiable Offences,1067
+2015,2,Theft and Handling,21243
+2015,2,Burglary,5974
+2015,2,Violence Against the Person,15458
+2015,2,Robbery,1644
+2015,3,Burglary,6336
+2015,3,Theft and Handling,24490
+2015,3,Violence Against the Person,17660
+2015,3,Other Notifiable Offences,1147
+2015,3,Criminal Damage,5364
+2015,3,Robbery,1862
+2015,3,Drugs,3237
+2015,4,Theft and Handling,23171
+2015,4,Criminal Damage,5284
+2015,4,Robbery,1782
+2015,4,Drugs,3057
+2015,4,Violence Against the Person,16579
+2015,4,Other Notifiable Offences,1135
+2015,4,Burglary,5437
+2015,5,Robbery,1889
+2015,5,Other Notifiable Offences,1169
+2015,5,Criminal Damage,5539
+2015,5,Violence Against the Person,18982
+2015,5,Theft and Handling,24818
+2015,5,Burglary,5559
+2015,5,Drugs,3082
+2015,6,Other Notifiable Offences,1268
+2015,6,Violence Against the Person,19155
+2015,6,Burglary,5289
+2015,6,Drugs,3248
+2015,6,Criminal Damage,5461
+2015,6,Theft and Handling,24628
+2015,6,Robbery,1711
+2015,7,Burglary,5400
+2015,7,Robbery,1789
+2015,7,Other Notifiable Offences,1291
+2015,7,Theft and Handling,24324
+2015,7,Criminal Damage,5597
+2015,7,Drugs,3467
+2015,7,Violence Against the Person,19738
+2015,8,Burglary,5372
+2015,8,Violence Against the Person,18478
+2015,8,Other Notifiable Offences,1223
+2015,8,Criminal Damage,5163
+2015,8,Robbery,1758
+2015,8,Drugs,3451
+2015,8,Theft and Handling,22611
+2015,9,Theft and Handling,22602
+2015,9,Drugs,3363
+2015,9,Violence Against the Person,18290
+2015,9,Criminal Damage,4903
+2015,9,Burglary,5419
+2015,9,Robbery,1721
+2015,9,Other Notifiable Offences,1266
+2015,10,Drugs,3618
+2015,10,Criminal Damage,5383
+2015,10,Violence Against the Person,19873
+2015,10,Robbery,1812
+2015,10,Other Notifiable Offences,1259
+2015,10,Burglary,5941
+2015,10,Theft and Handling,24475
+2015,11,Robbery,1864
+2015,11,Theft and Handling,24719
+2015,11,Criminal Damage,5435
+2015,11,Burglary,6783
+2015,11,Drugs,3231
+2015,11,Violence Against the Person,19259
+2015,11,Other Notifiable Offences,1196
+2015,12,Robbery,1756
+2015,12,Other Notifiable Offences,1154
+2015,12,Theft and Handling,23956
+2015,12,Drugs,3039
+2015,12,Burglary,6458
+2015,12,Criminal Damage,5396
+2015,12,Violence Against the Person,19081
