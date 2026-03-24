@@ -66,3 +66,12 @@ WHERE stn = '037720' AND wban = '99999';
 CREATE OR REPLACE VIEW `uni-da.Weather_Data.data2016` AS
 SELECT DATE(CAST(year as INT64), CAST(mo as INT64), CAST(da as INT64)) as date, year, mo, da, temp, dewp, slp, visib, wdsp, mxpsd, gust, max, min, prcp, sndp, fog FROM `bigquery-public-data.noaa_gsod.gsod2016`
 WHERE stn = '037720' AND wban = '99999';
+
+-- Merge All Weather Data
+CREATE OR REPLACE VIEW `uni-da.Weather_Data.data2014_2016` AS
+SELECT * FROM `uni-da.Weather_Data.data2014`
+union All
+SELECT * FROM `uni-da.Weather_Data.data2015`
+union All
+SELECT * FROM `uni-da.Weather_Data.data2016`
+Order BY date;
