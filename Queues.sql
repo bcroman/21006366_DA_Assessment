@@ -96,5 +96,3 @@ SELECT
 FROM `uni-da.Weather_Data.data2014_2016`
 GROUP BY year, month
 ORDER BY year, month;
-
--- Merge London Crime Data to Weather Data to One Table
