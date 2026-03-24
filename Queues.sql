@@ -75,3 +75,26 @@ SELECT * FROM `uni-da.Weather_Data.data2015`
 union All
 SELECT * FROM `uni-da.Weather_Data.data2016`
 Order BY date;
+
+-- Create View for Weather Monthly Data
+CREATE OR REPLACE VIEW `uni-da.Weather_Data.monthly_weather_2014_2016` AS
+SELECT
+  EXTRACT(YEAR FROM date) AS year,
+  EXTRACT(MONTH FROM date) AS month,
+  AVG(temp) AS avg_temp,
+  AVG(dewp) AS avg_dewp,
+  AVG(slp) AS avg_slp,
+  AVG(visib) AS avg_visib,
+  AVG(SAFE_CAST(wdsp AS FLOAT64)) AS avg_wdsp,
+  AVG(SAFE_CAST(mxpsd AS FLOAT64)) AS avg_mxpsd,
+  AVG(gust) AS avg_gust,
+  AVG(max) AS avg_max_temp,
+  AVG(min) AS avg_min_temp,
+  AVG(prcp) AS avg_prcp,
+  AVG(sndp) AS avg_sndp,
+  COUNTIF(SAFE_CAST(fog AS INT64) = 1) AS fog_days
+FROM `uni-da.Weather_Data.data2014_2016`
+GROUP BY year, month
+ORDER BY year, month;
+
+-- Merge London Crime Data to Weather Data to One Table
