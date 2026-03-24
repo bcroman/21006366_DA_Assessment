@@ -49,8 +49,8 @@ GROUP BY year, month, major_category
 ORDER BY year, month;
 
 -- Get London Weather Staton Code
-SELECT usaf, wban, name, country FROM `bigquery-public-data.noaa_gsod.stations` 
-WHERE country = 'UK' AND name LIKE '%LONDON%';
+SELECT usaf, wban, name, country FROM `bigquery-public-data.noaa_gsod.stations`
+WHERE country = 'UK' AND name LIKE '%LONDON%' OR name LIKE '%HEATHROW%';
 
 -- Get 2014 Weather Data
 CREATE OR REPLACE VIEW `uni-da.Weather_Data.data2014` AS
